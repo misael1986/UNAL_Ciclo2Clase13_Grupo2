@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.edu.unal.unal_ciclo2clase13_grupo2.CalculadoraTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 sec
